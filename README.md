@@ -13,4 +13,5 @@ I'm a Software Engineer, Content Creator. I'm passionate about sharing knowledge
 - 📫 You can contact me by emailing mailtoiammichy47@gmail.com.
 
 ---
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=4eyedPhysio&show_icons=true&include_all_commits=true&hide_border=true" alt="Michael's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4eyedPhysio&langs_count=8&layout=compact&hide_border=true" alt="Michael's GitHub stats" /> |
+| ------------- | ------------- |
