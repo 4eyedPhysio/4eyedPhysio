@@ -5,12 +5,23 @@ About Me
 👋 Hi there! I'm a Software Engineer and Content Creator passionate about:
 
 Sharing Knowledge: Documentation, tutorials, and more.
+
 Web Engineering: Exploring APIs
+
+
 Studying at: AltSchool Africa, School of Software Engineering (Class of 2024)
+
+
 Learning: JavaScript, Node.js, and Typescript
+
+
 Seeking Opportunities
 Looking for: Open source projects, hackathons, internships, and entry-level roles.
+
+
 Job Interests: Software Engineer, B-End Engineer(Intern or Junior level)
+
+
 Fun Fact
 🌟 Fun Fact: I’m always excited to dive into new tech and explore innovative solutions.
 
